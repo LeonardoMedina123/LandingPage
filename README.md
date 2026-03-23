@@ -1,62 +1,81 @@
-# Astro Starter Kit: Blog
+# 🏝️ Proyecto: Loopstudios Landing Page
 
-```sh
-npm create astro@latest -- --template blog
-```
+Este proyecto consiste en el desarrollo de la **landing page de Loopstudios** utilizando **Astro** y **Tailwind CSS**.  
+El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maquetación**, **estilos responsivos** y **utilidades CSS** para construir un diseño limpio, moderno y adaptable a diferentes dispositivos.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-Features:
+## 📖 Descripción general
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+### 🧩 Vista previa del proyecto
+Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
 
-## 🚀 Project Structure
+![Vista previa del proyecto](vistaprevia.png)
 
-Inside of your Astro project, you'll see the following folders and files:
+---
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+### 🔗 Enlaces del proyecto
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **Repositorio en GitHub:**https://github.com/LeonardoMedina123/LandingPage
+- **Sitio desplegado (opcional):** https://landing-page-nine-self-89.vercel.app
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+---
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+## 🧠 Proceso de desarrollo
 
-Any static assets, like images, can be placed in the `public/` directory.
+### 🛠️ Tecnologías utilizadas
+Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
 
-## 🧞 Commands
+- [Astro](https://astro.build)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML5 semántico
+- Diseño responsivo (Mobile-first)
+- Componentes de Astro reutilizables
+- Interacciones con JavaScript (opcional para el toggle del menú móvil)
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### 💡 Lo que aprendí
+En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
+Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
 
-## 👀 Want to learn more?
+Reforcé muchisimo la parte de controlar tamaño en contenedores
+### 🚀 Áreas de mejora
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
 
-## Credit
+Definitivamente tengo que mejorar la responsibidad y tambien las etiquetas de tailwind
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+---
+
+### 📚 Recursos útiles
+
+Incluye los enlaces, documentación o tutoriales que te ayudaron a completar este proyecto.
+
+**Ejemplo:**
+- [Documentación de Astro](https://docs.astro.build)  
+- [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs)  
+- [MDN Web Docs - HTML y CSS](https://developer.mozilla.org/es/)  
+- [Guía de diseño responsivo](https://web.dev/responsive-web-design-basics/)  
+
+---
+
+### 👩‍💻 Autor
+
+- **Nombre completo: Leonardo Daniel Medina Castañeda**  
+- **Carrera: TICS**  
+- **Grupo: 11-12 **  
+- **Correo institucional:23151265@aguascalientes.tecnm.mx**  
+
+---
+
+### ✨ Reflexión final
+
+Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
+Puedes responder a preguntas como:
+
+- ¿Qué fue lo más fácil o lo más difícil de realizar?  los contenedores y tamaños de letra fueron lo más dificil
+- ¿Qué parte disfrutaste más del desarrollo?  poner las imagenes
+- ¿Qué conceptos nuevos aprendiste?  aprendi a hacer elementos responsivos con tailwind
+- ¿Cómo aplicarías lo aprendido en proyectos futuros? haciendo diseños más complejos
+
